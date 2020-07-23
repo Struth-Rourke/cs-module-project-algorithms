@@ -17,3 +17,9 @@ Can you implement a solution that finds the single number in _one_ pass through 
 
 ## Testing
 Run the test file by executing `python test_single_number.py`. 
+
+
+# RUNNING CODE:
+"""
+python single_number/test_single_number.py
+"""

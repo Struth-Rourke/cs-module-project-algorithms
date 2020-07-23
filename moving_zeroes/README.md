@@ -23,3 +23,8 @@ Run the test file by executing `python test_moving_zeroes.py`.
 You can also test your implementation manually by executing `python moving_zeroes.py [integers_separated_by_a_single_space]`.
 
 
+
+# RUNNING CODE:
+"""
+python moving_zeroes/test_moving_zeroes.py
+"""
